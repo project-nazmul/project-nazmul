@@ -12,7 +12,7 @@ Enthusiastic about making software with customer satisfaction. I have a passion 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/project-nazmul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.khan.nazmul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/project_nazmul)  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=project-nazmul)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=project-nazmul)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=project-nazmul)](https://github.com/anuraghazra/github-readme-stats)
 
