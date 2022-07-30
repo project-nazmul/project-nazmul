@@ -9,7 +9,7 @@ Enthusiastic about making software with customer satisfaction. I have a passion 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/project-nazmul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.khan.nazmul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/project_nazmul)  
+
 
 
 
@@ -24,3 +24,4 @@ Enthusiastic about making software with customer satisfaction. I have a passion 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=project-nazmul)  
 
 ![Profile views](https://gpvc.arturio.dev/project-nazmul)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/project-nazmul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.khan.nazmul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/project_nazmul)  
