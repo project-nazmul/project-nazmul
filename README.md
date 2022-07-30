@@ -1,6 +1,6 @@
 ![Software Engineer](https://pbs.twimg.com/profile_banners/1553405014601007106/1659195778/1500x500)
 
-### Hi there 👋, I'm Nazmul Khan
+### This is Nazmul Khan
 #### Software Engineer
 
 Enthusiastic about making software with customer satisfaction. I have a passion for learning and sharing knowledge with others. I love problem-solving. I am goal-orientated and strategic about my work.
