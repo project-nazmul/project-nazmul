@@ -19,7 +19,7 @@ Enthusiastic about making software with customer satisfaction. I have a passion 
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/project-nazmul)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=project-nazmul)  
 
